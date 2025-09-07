@@ -1,0 +1,9 @@
+[
+        { "name": "JavaScript", "level": "Advanced", "info": "Dynamic language for web development", "icon": "/images/icons/javascript.png" },
+        { "name": "React.js", "level": "Advanced", "info": "Frontend library for building UIs", "icon": "/images/icons/react.png" },
+        { "name": "Node.js", "level": "Intermediate", "info": "Runtime for backend services", "icon": "/images/icons/node.png" },
+        { "name": "Spring Boot", "level": "Intermediate", "info": "Java framework for microservices", "icon": "/images/icons/springboot.png" },
+        { "name": "MongoDB", "level": "Intermediate", "info": "NoSQL database for scalability", "icon": "/images/icons/mongodb.png" },
+        { "name": "MySQL", "level": "Intermediate", "info": "Relational database management system", "icon": "/images/icons/mysql.png" },
+        { "name": "HTML & CSS", "level": "Advanced", "info": "Core technologies for web structure & styling", "icon": "/images/icons/htmlcss.png" }
+]

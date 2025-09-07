@@ -1,0 +1,26 @@
+[
+  {
+    "title": "To-Do Application",
+    "description": "Developed a full-stack CRUD application for managing daily tasks with authentication and role-based access.\n Implemented RESTful APIs in Spring Boot and secured them with JWT authentication.\n Designed responsive React frontend with React Router and Axios for API integration.",
+    "techStack": ["Spring Boot", "React.js", "MySQL"],
+    "githubLink": "https://github.com/yourusername/portfolio",
+    "demoLink": "https://yourdemo.com",
+    "imageUrl": "/images/portfolio.png"
+  },
+  {
+    "title": "Blog Platform",
+    "description": "A full-featured blogging platform",
+    "techStack": ["React", "Node.js", "Express"],
+    "githubLink": "https://github.com/yourusername/blog",
+    "demoLink": "https://yourdemo.com",
+    "imageUrl": "/images/blog.png"
+  },
+  {
+    "title": "Chat Application",
+    "description": "Real-time chat app using Socket.io",
+    "techStack": ["React", "Node.js", "Socket.io"],
+    "githubLink": "https://github.com/yourusername/chat-app",
+    "demoLink": "https://yourdemo.com",
+    "imageUrl": "/images/chat.png"
+  }
+]

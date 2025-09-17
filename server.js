@@ -1,4 +1,4 @@
-// // server.js
+// server.js
 // const express = require("express");
 // const mongoose = require("mongoose");
 // const cors = require("cors");
@@ -40,7 +40,7 @@
 //For Atlas Online database
 
 
-// server.js
+server.js
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");

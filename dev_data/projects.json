@@ -8,12 +8,12 @@
     "imageUrl": "/images/portfolio.png"
   },
   {
-    "title": "Blog Platform",
-    "description": "A full-featured blogging platform",
-    "techStack": ["React", "Node.js", "Express"],
-    "githubLink": "https://github.com/yourusername/blog",
+    "title": "BookBite – Online Book Summary Platform",
+    "description": "Developed a full-stack web application that allows users to explore and share book summaries.\n Implemented RESTful APIs with Node.js and Express for managing books, summaries, and users.\n Integrated MySQL database for secure and persistent data storage.\n Built a responsive React.js frontend with dynamic routing and Axios for seamless API communication.\n Added user authentication and role-based access for readers and admins.",
+    "techStack": ["React.js", "Node.js", "Express.js", "MySQL"],
+    "githubLink": "https://github.com/yourusername/bookbite",
     "demoLink": "https://yourdemo.com",
-    "imageUrl": "/images/blog.png"
+    "imageUrl": "/images/portfolio.png"
   },
   {
     "title": "Chat Application",
